@@ -1,0 +1,17 @@
+.Clock-face{
+    width: 30rem;
+    height: 30rem;
+    background-color: pink;
+    border: 20px solid palevioletred;
+    border-radius: 50%;
+    margin-left: 43rem;
+    margin-top: 5em;
+}
+
+.Clock-min-hand{
+    width: 15rem;
+    height: 5px;
+    background-color: #050301;
+    margin-left: 50rem;
+    margin-top: 10px;
+}
